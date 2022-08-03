@@ -122,7 +122,7 @@ global.wm3 = '⫹⫺ KoKo 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = '🌱 ┊ 𝗥𝗣𝗚 Whatsapp ʙᴏᴛ'
-global.author = ®.KoKo•Rey.wm
+global.author = global.wm
 
 
 /*============== LOGO ==============*/
